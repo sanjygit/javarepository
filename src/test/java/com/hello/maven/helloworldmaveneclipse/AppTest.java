@@ -36,7 +36,7 @@ public class AppTest
     {
        // assertTrue( true );
        // System.out.print(App.main(null));
-    	System.out.println("Inside AppTest.java " + App.testMaven("Hello World....."));
+    	System.out.println("Inside AppTest.java " + App.testMaven("Hello World.1"));
     }
 
 
