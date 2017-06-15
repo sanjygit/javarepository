@@ -1,5 +1,5 @@
 package com.hello.maven.helloworldmaveneclipse;
-
+import com.google.gson.Gson;
 /**
  * Hello world!
  *
@@ -14,7 +14,7 @@ public class App
 
 /*package com.vogella.maven.lars;*/
 
-import com.google.gson.Gson;
+//import com.google.gson.Gson;
 
 public class App
 {
